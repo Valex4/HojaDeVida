@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://valex4.github.io/HojaDeVida/",
+  "homepage": "https://valex4.github.io/hojadevida/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
