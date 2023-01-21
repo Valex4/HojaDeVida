@@ -1,0 +1,25 @@
+#div1{
+    
+}
+
+#title{
+    text-align: center;
+}
+
+.div2{
+    display:flex;
+    padding: 0 30px;
+    /*border-bottom: 2px blue solid;*/
+    gap: 20px;
+}
+
+.div2 .div3{
+    /*box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;*/
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+#text{
+    text-align: justify;
+   text-justify: inter-word; 
+   padding: 0 80px;
+}
+

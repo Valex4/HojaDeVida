@@ -1,0 +1,17 @@
+export const Info = {
+    nombreCompleto: "Yahir Alexander Gutiérrez Martínez", 
+    carrera: "Estudiante de Ingenieria en Desarrollo de Software",
+    project1: "CleanSkin",
+    project1info: "Validación y diseño de la tienda en linea, además verificacion con las conexiones de la base de datos y filtros en el catalogo de productos",
+    project2: "ToDo List",
+    project2info: "Desarrollo de la logica funcional del programa, para poder realizar los calculos que ayudaron a que el programa funcionara",
+    project3: "Easy Math",
+    project3info: "Implementación de calculos matematicos, los cuales ayudaron a conseguir resultados concretos, cumpliendo con el objetivo de la aplicación",
+    subtitulo1: "Habilidades",
+    subtitulo2: "Tecnologías dominadas",
+    subtitulo3:"Certificaciones",
+    subtitulo4: "Información de Contacto",
+    skills: ["Desarrollo Web", "Scrum", "Empatía", "Trabajo colectivo", "Iniciativas para pasar el tiempo con aprendizaje","Pasión por la enseñanza"],
+    certificaciones:["DragonJar 2021","DragonJar 2022"],
+    contacto: ["Email:yam778123@gmail.com"," celular: +52 919129078", "Dirección: 13 de Julio, Tuxtla Gutierrez, Chiapas, México"],
+}
