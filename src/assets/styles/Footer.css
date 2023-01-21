@@ -15,7 +15,7 @@
     display: block;
     border: 0.5px solid rgb(0, 0, 0);
     width: 20%;
-    background-color: rgb(206, 204, 204);
+    background-color: rgba(240, 239, 239, 0.727);
     border-radius: 20px;
     padding: 5px 10px;
    
@@ -39,7 +39,8 @@
 }
 #all{
     display: flex;
-    /*border: 2px red solid;*/
+   /*  border: 2px red solid; */
+    padding: 0px 14px 15px;
 }
 #div5{
     display: flex;
@@ -60,5 +61,5 @@
 }
 
 #li{
-    font-size: 25px;
+    font-size: 23px;
 }
