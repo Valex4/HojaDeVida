@@ -11,7 +11,7 @@ export const Info = {
     subtitulo2: "Tecnologías dominadas",
     subtitulo3:"Certificaciones",
     subtitulo4: "Información de Contacto",
-    skills: ["Desarrollo Web", "Scrum", "Empatía", "Trabajo colectivo", "Iniciativas para pasar el tiempo con aprendizaje","Pasión por la enseñanza"],
+    skills: ["Desarrollo Web", "Scrum", "Empatía", "Trabajo colectivo", "Iniciativas para pasar el tiempo con aprendizaje","Pasión por la enseñanza","Busqueda de soluciones a los problemas"],
     certificaciones:["DragonJar 2021","DragonJar 2022"],
     contacto: ["Email:yam778123@gmail.com"," celular: +52 9191290778", "Dirección: 13 de Julio, Tuxtla Gutierrez, Chiapas, México"],
 }
