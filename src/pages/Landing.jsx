@@ -1,4 +1,3 @@
-import { Link } from "react-router-dom";
 import Header from "../Components/organism/Header";
 import Body from "../Components/organism/Body";
 import Footer from "../Components/organism/Footer";

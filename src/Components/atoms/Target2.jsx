@@ -8,7 +8,7 @@ function Target2({item, list, id}) {
         <Caption msn={item}></Caption>
       </span>
       <ul>
-          {list.map(itemSkill => <li key={item}>{itemSkill}</li>)}
+          {list.map(itemSkill => <li id="li" key={item}>{itemSkill}</li>)}
       </ul>
     </div>
   </>
